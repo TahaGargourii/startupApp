@@ -1,0 +1,156 @@
+.mycomponent{
+  font-family: Poppins;  
+  height: 100%;
+  width: 25%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+  background-color:rgba(211, 227, 255, 0.951) ;
+  color: white;
+  font-size: 20px;
+}
+.signup{
+    margin: auto;
+    filter: drop-shadow(1px 3px 6px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    overflow: visible;
+    width: 327px;
+    height: 472px;
+    left: 486px;
+    top: 186px;
+   
+    fill: rgba(255,255,255,1);
+   
+     
+   }
+   label{
+       display:inline-block;
+       
+   }
+   button{
+       margin-left: 55px;
+       margin-top: 15px;
+       padding: 2px;
+       border: 1px solid black;
+       border-radius: 2px;
+   }
+   input{
+       display: block;
+       border: 1px solid rgb(250, 245, 245);
+       box-shadow:0px 3px 13px -4px #000000;
+   
+   -webkit-box-shadow:0px 3px 13px -4px #000000;
+   
+   -moz-box-shadow:0px 3px 13px -4px #000000;
+   }
+   .title{
+       margin-left: 70px;
+       margin-top: 130px;
+
+   }
+   .sometext{
+    margin-left: 30px;
+    margin-top: 90px;  
+   }
+   .sheet{
+       margin-left: 60px;
+       border-radius: 5px;
+       height: 305px;
+   }
+   h3{
+    text-align: center;
+    margin: unset;
+    text-align: left;
+    font-family: Poppins;
+    font-style:normal;
+    font-weight: 300;
+    font-size: 16px;
+    color: rgba(90,96,127,1);
+    letter-spacing: 0.0625px;
+    margin-left: 10px;
+    margin-block: revert;
+    text-align: center;
+    margin-bottom: 3px;
+    margin-top: -9px;
+
+   }
+   h2{
+    text-align: center;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 20px;
+    color:black;
+    letter-spacing: 0.0625px;
+    padding-left: 10px;
+  
+    padding: 10px;
+}
+   
+   label{
+    text-align: left;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgb(38, 42, 65);
+    letter-spacing: 0.0625px;
+    padding-left: 10px;
+   }
+   .select{
+       width: 189px;
+   }
+.put{
+    border-radius: 5px;
+    margin-bottom: 8px;
+
+
+}
+select{
+    border-radius: 5px;
+    background-color:rgba(211, 227, 255, 0.951);
+    margin: 4px;
+    margin-left: -2px;
+
+}
+.buttonsubmit{
+    border-radius: 10px;
+    width: 80px;
+    background-color: rgba(211, 227, 255, 0.951);
+    border-color: whitesmoke;
+    
+}
+.paper{    
+    margin-block: -48px ;
+    height: 490px;
+    margin-top: -100px;
+    
+
+}
+
+h1{
+    text-align: left;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 23px;
+    color: azure;
+
+
+}
+
+.Labels{
+    margin: 2px;
+    margin-left: -8px;
+}
+
+
+
+
+
+
+
+
+   
